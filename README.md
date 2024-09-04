@@ -1,1 +1,1 @@
-# DHCP-configuration
+# DHCP server (step-by-step process)
